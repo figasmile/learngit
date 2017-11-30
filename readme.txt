@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is a free software.
+Git is free software.
 I am so happy because of the git;
 test git diff;
 test change1;
