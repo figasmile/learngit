@@ -1,4 +1,8 @@
 测试git diff;
 happy
 test return
+<<<<<<< HEAD
 我是原作者的修改
+=======
+测试另一个人的推送Dev
+>>>>>>> 9ac40e2477f1a157f6a9cd46202f68d828f66cae
